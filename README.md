@@ -57,9 +57,10 @@ GitHub Repo:
 ## Author
 👤 Ansh Jatana
 
-* Portfolio: portfolio-anshh.netlify.app
-* GitHub: @Anshjatana
-* LinkedIn: Ansh Jatana
+* [Portfolio](https://portfolio-anshh.netlify.app/)
+* [LinkedIn](https://www.linkedin.com/in/ansh-jatana-10b446205/)
+* [GitHub](https://github.com/Anshjatana)
+* [Twitter(x)](https://x.com/anshh_jatana)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
