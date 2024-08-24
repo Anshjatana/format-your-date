@@ -29,17 +29,17 @@ console.log(DateFormatter.formatDate(date, 'fullDate')); // Output: Saturday, 24
 ```
 
 ## Supported Formats
-dd-mm-yyyy (e.g., 24-08-2024)
-mm-dd-yyyy (e.g., 08-24-2024)
-yyyy-mm-dd (e.g., 2024-08-24)
-dd/mm/yyyy (e.g., 24/08/2024)
-mm/dd/yyyy (e.g., 08/24/2024)
-yyyy/mm/dd (e.g., 2024/08/24)
-fullDate (e.g., Saturday, 24 August 2024)
-dd-mmm-yyyy (e.g., 24 Aug, 2024)
-dd-mmmm-yyyy (e.g., 24 August, 2024)
-mmmm-dd-yyyy (e.g., August 24, 2024)
-mmm-dd-yyyy (e.g., Aug 24, 2024)
+* dd-mm-yyyy (e.g., 24-08-2024)
+* mm-dd-yyyy (e.g., 08-24-2024)
+* yyyy-mm-dd (e.g., 2024-08-24)
+* dd/mm/yyyy (e.g., 24/08/2024)
+* mm/dd/yyyy (e.g., 08/24/2024)
+* yyyy/mm/dd (e.g., 2024/08/24)
+* fullDate (e.g., Saturday, 24 August 2024)
+* dd-mmm-yyyy (e.g., 24 Aug, 2024)
+* dd-mmmm-yyyy (e.g., 24 August, 2024)
+* mmmm-dd-yyyy (e.g., August 24, 2024)
+* mmm-dd-yyyy (e.g., Aug 24, 2024)
 
 
 ## Parameters:
@@ -57,9 +57,9 @@ GitHub Repo:
 ## Author
 👤 Ansh Jatana
 
-Portfolio: portfolio-anshh.netlify.app
-GitHub: @Anshjatana
-LinkedIn: Ansh Jatana
+* Portfolio: portfolio-anshh.netlify.app
+* GitHub: @Anshjatana
+* LinkedIn: Ansh Jatana
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
