@@ -20,7 +20,7 @@ npm install format-your-date
 ## Usage
 
 ```bash
-import DateFormatter from 'format-your-date';
+import { DateFormatter } from 'format-your-date';
 
 const date = new Date();
 
