@@ -1,0 +1,29 @@
+{
+  "name": "format-your-date",
+  "version": "1.0.0",
+  "description": "A simple date formatting package",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "date",
+    "format",
+    "typescript"
+  ],
+  "author": "Ansh Jatana",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "rollup": "^4.21.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "tslib": "^2.7.0"
+  }
+}
