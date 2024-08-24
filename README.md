@@ -44,9 +44,9 @@ console.log(DateFormatter.formatDate(date, 'fullDate')); // Output: Saturday, 24
 
 ## Parameters:
 
-date: The date to be formatted.
-format: The format in which the date should be returned. Supported formats are listed above.
-Returns: A string representing the formatted date.
+1. date: The date to be formatted.
+2. format: The format in which the date should be returned. Supported formats are listed above.
+* Returns: A string representing the formatted date.
 
 
 ## Contributing
