@@ -13,7 +13,7 @@ type DateFormat =
   | 'mmmm-dd-yyyy' // August 24, 2024
   | 'mmm-dd-yyyy'; // Aug 24, 2024
 
-class DateFormatter {
+  export class DateFormatter {
   // Helper method to get month name
   private static getMonthName(monthIndex: number, full: boolean = false): string {
     const months = full
@@ -148,5 +148,3 @@ class DateFormatter {
 // const date = new Date();
 // console.log(DateFormatter.formatDate(date, 'dd-mmm-yyyy'));
 // console.log(DateFormatter.formatDate(date, 'mmmm-dd-yyyy'));
-
-export default DateFormatter;
