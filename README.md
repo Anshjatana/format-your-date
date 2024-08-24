@@ -15,6 +15,7 @@ Install the package via npm:
 
 ```bash
 npm install format-your-date
+```
 
 ## Usage
 
@@ -25,7 +26,7 @@ const date = new Date();
 
 console.log(DateFormatter.formatDate(date, 'dd-mm-yyyy')); // Output: 24-08-2024
 console.log(DateFormatter.formatDate(date, 'fullDate')); // Output: Saturday, 24 August 2024
-
+```
 
 ## Supported Formats
 dd-mm-yyyy (e.g., 24-08-2024)
@@ -41,7 +42,7 @@ mmmm-dd-yyyy (e.g., August 24, 2024)
 mmm-dd-yyyy (e.g., Aug 24, 2024)
 
 
-Parameters:
+## Parameters:
 
 date: The date to be formatted.
 format: The format in which the date should be returned. Supported formats are listed above.
